@@ -3,6 +3,7 @@ import React, { createContext, Component } from "react";
 export const ThemeContext = createContext();
 
 class ThemeContextProvider extends Component {
+  // shared data that we want to supply to different components
   state = {
     isLightTheme: true,
     light: { syntax: "#555", ui: "#ddd", bg: "#eee" },

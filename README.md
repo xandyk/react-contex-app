@@ -1,6 +1,6 @@
 ## context-app
 
-[Learning] - [React Context] (https://reactjs.org/docs/context.html#reactcreatecontext)
+[Learning] - [React Context](https://reactjs.org/docs/context.html#reactcreatecontext)
 
 - React.createContext
 

@@ -8,6 +8,14 @@
 const MyContext = React.createContext(defaultValue);
 ```
 
+- Context.Consumer
+
+```sh
+<MyContext.Consumer>
+  {value => /* render something based on the context value */}
+</MyContext.Consumer>
+```
+
 - Context.Provider 
 
 ```sh
